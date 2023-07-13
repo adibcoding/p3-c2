@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Cek 33 Prodi S2 dan S3 Unesa, Kuliah Bisa Akhir Pekan",
+      "slug": "cek-33-prodi-s2-dan-s3-unesa-kuliah-bisa-akhir-pekan",
+      "content": "Di Pascasarjana Unesa memiliki 33 prodi, yang terdiri 22 prodi magister (S2) dan 8 prodi doktor (S3) sudah terakreditasi dan banyak yang terakreditasi unggul, akreditasi tertinggi BAN-PT",
+      "imgUrl": "https://asset.kompas.com/crops/Op4RZ6ohcBWwaR1LMSbWYvIbTNg=/118x210:807x670/750x500/data/photo/2022/04/11/62543c8bbfc49.png",
+      "createdAt": "2023-06-07 22:42:48.890 +0700",
+      "updatedAt": "2023-06-07 22:42:48.890 +0700",
+      "categoryId": 1
+    },
+    {
+      "title": "Potong Sayur",
+      "slug": "potong-sayur",
+      "content": "asdasdwqeasdasd",
+      "imgUrl": "",
+      "categoryId": "1",
+      "id": 6
+    },
+    {
+      "title": "Potong Sayur",
+      "slug": "potong-sayur",
+      "content": "asdasdwqeasdasd",
+      "imgUrl": "",
+      "categoryId": "1",
+      "id": 7
+    },
+    {
+      "title": "Potong Sayur",
+      "slug": "potong-sayur",
+      "content": "asdasdwqeasdasd",
+      "imgUrl": "",
+      "categoryId": "1",
+      "id": 8
+    },
+    {
+      "title": "Potong Sayur",
+      "slug": "potong-sayur",
+      "content": "asdasdwqeasdasd",
+      "imgUrl": "",
+      "categoryId": "1",
+      "id": 9
+    },
+    {
+      "title": "Potong Sayur",
+      "slug": "potong-sayur",
+      "content": "asdasdwqeasdasd",
+      "imgUrl": "",
+      "categoryId": "1",
+      "id": 10
+    },
+    {
+      "title": "test",
+      "slug": "test",
+      "content": "test",
+      "imgUrl": "test",
+      "categoryId": "1",
+      "name": "",
+      "id": 27
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Edukasi",
+      "createdAt": "2023-06-07 22:42:48.890 +0700",
+      "updatedAt": "2023-06-07 22:42:48.890 +0700"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "postId": 1,
+      "name": "Kuliah",
+      "createdAt": "2023-06-07 22:42:48.890 +0700",
+      "updatedAt": "2023-06-07 22:42:48.890 +0700"
+    },
+    {
+      "name": "asdadsdadadasdxcccccc",
+      "postId": 10,
+      "id": 2
+    },
+    {
+      "name": "Adibs",
+      "postId": 6,
+      "id": 7
+    },
+    {
+      "name": "Adibs",
+      "postId": 7,
+      "id": 8
+    },
+    {
+      "name": "sdddddddddd",
+      "id": 9
+    },
+    {
+      "name": "sdddddddddd",
+      "postId": 9,
+      "id": 10
+    },
+    {
+      "name": "sdddddddddd",
+      "postId": 10,
+      "id": 11
+    },
+    {
+      "name": "beda",
+      "id": 13
+    },
+    {
+      "name": "sdasd",
+      "id": 18
+    },
+    {
+      "name": "mon",
+      "id": 23
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "adibcoding",
+      "email": "adibhasany1501@gmail.com",
+      "password": "12345678",
+      "role": "Admin",
+      "phoneNumber": "08123242432234",
+      "address": "asdlaksjdasd"
+    },
+    {
+      "username": "adibcoding",
+      "email": "adibhasany1502@gmail.com",
+      "password": "12345678",
+      "role": "Admin",
+      "phoneNumber": "81239783384",
+      "address": "asdasd",
+      "id": 2
+    }
+  ]
+}

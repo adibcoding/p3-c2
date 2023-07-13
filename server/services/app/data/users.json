@@ -1,0 +1,18 @@
+[
+    {
+        "username": "adibcoding",
+        "email": "adibhasany1501@gmail.com",
+        "password": "12345678",
+        "role": "Admin",
+        "phoneNumber": "081233425345",
+        "address": "Tangerang Selatan"
+    },
+    {
+        "username": "maman",
+        "email": "adibhasany1502@gmail.com",
+        "password": "12345678",
+        "role": "Admin",
+        "phoneNumber": "08133452599",
+        "address": "Tangerang Timur"
+    }
+]

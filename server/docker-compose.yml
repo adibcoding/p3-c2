@@ -1,0 +1,21 @@
+services:
+  app:
+    build: ./services/app
+    # container_name: app-services
+    ports:
+      - "3001:3001"
+  user:
+    build: ./services/users
+    # container_name: user-services
+    ports:
+      - "3000:3000"
+    environment:
+      - DATABASE_URL=${MONGO_DB_URL}
+  orchestrator:
+    build: ./orchestra-graphql
+    # container_name: orchestrator
+    ports:
+      - "80:4000"
+    environment:
+      - MONGO_SERVER_URL=http://user:3000
+      - SQL_SERVER_URL=http://app:3001
